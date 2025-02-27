@@ -1,2 +1,4 @@
 # NN_training
-Jupyter notebooks for training neural network models on high-resolution TEM images for high-throughput image analysis (https://pubs.acs.org/doi/10.1021/acsnano.4c09312)
+A Jupyter notebook supporting our manuscript, "Size-Resolved Shape Evolution in Inorganic Nanocrystals Captured via High-Throughput Deep Learning-Driven Statistical Characterization (https://pubs.acs.org/doi/10.1021/acsnano.4c09312)".
+
+The relevant dataset, including the training images and labeled dataset with pixel sizes ranging from 67 to 86 pm, as well as the testing dataset of TEM images and segmentation results for each experimental nanocrystal sample, is available on Zenodo: https://zenodo.org/records/14927582. 
